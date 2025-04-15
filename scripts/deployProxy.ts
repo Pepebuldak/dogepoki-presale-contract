@@ -84,7 +84,7 @@ async function main() {
   );
   console.log(`Claim process started in Presale contract`);
 
-  const roundStartTime = 1744719962;
+  const roundStartTime = 1744732638;
   const roundDuration = 432000; // 5 days
   const totalRounds = 40;
   const totalAmount = ethers.BigNumber.from("120000000000000"); // 120 trillion
